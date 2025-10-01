@@ -89,7 +89,7 @@ Yes, participants who complete the program will receive a certificate.
 
 ## 📬 Contact
 
-For questions or collaboration:  
+For questions:  
 📧 dickmbeya@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/dickson-mbeya)
 
@@ -97,3 +97,4 @@ For questions or collaboration:
 
 
 © 2025 R for GIS and Remote Sensing Mentorship Program
+
