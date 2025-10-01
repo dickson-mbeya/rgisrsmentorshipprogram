@@ -21,6 +21,7 @@ Join our **5-week virtual mentorship program** and learn how to use **R** for sp
 
 ### Week 1: Foundations of R for Geospatial Work
 - R & RStudio setup
+- R basics
 - Spatial data types (vector & raster)
 - Coordinate Reference Systems (CRS)
 - Basic mapping with `ggplot2` and `sf`
@@ -69,7 +70,7 @@ Passionate about empowering Africa’s next generation of spatial thinkers
 
 - **Eligibility:** Open to students, researchers, and professionals with basic R or GIS knowledge  
 - **Application Deadline:** 07 October 2025
-- **Apply Here:** [Insert Application Link]
+- **Apply Here:** https://forms.gle/JX2D7se289zCVxCZ8
 
 ---
 
@@ -93,5 +94,6 @@ For questions or collaboration:
 🔗 [LinkedIn](www.linkedin.com/in/dickson-mbeya)
 
 ---
+
 
 © 2025 R for GIS and Remote Sensing Mentorship Program
